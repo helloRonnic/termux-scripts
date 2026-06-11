@@ -1,0 +1,209 @@
+TRENDING AI IMAGE PROMPTS REPORT
+Date    : 2026-06-11
+Sources : GitHub API + HuggingFace API
+=======================================================
+
+[ 1. GITHUB — TOP AI PROMPT REPOSITORIES ]
+Most-starred collections = community-validated prompts
+--------------------------------------------------
+
+1. op7418/guizang-ppt-skill
+   About  : AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
+   Stars  : ⭐ 16,452
+   Forks  : 🍴 1,205
+   Tags   : ai-agent, claude-code, codex, html-deck, image-generation, ppt
+   Browse : https://github.com/op7418/guizang-ppt-skill
+
+2. YouMind-OpenLab/awesome-nano-banana-pro-prompts
+   About  : 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.
+   Stars  : ⭐ 12,463
+   Forks  : 🍴 1,353
+   Tags   : ai-image-generation, ai-prompts, awesome, awesome-list, gemini, gemini-ai
+   Browse : https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
+
+3. easydiffusion/easydiffusion
+   About  : An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
+   Stars  : ⭐ 10,376
+   Forks  : 🍴 855
+   Tags   : art, diffusion, generative-art, gui, stable
+   Browse : https://github.com/easydiffusion/easydiffusion
+
+4. Acly/krita-ai-diffusion
+   About  : Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
+   Stars  : ⭐ 10,183
+   Forks  : 🍴 591
+   Tags   : generative-ai, krita-plugin, stable-diffusion
+   Browse : https://github.com/Acly/krita-ai-diffusion
+
+5. ZeroLu/awesome-nanobanana-pro
+   About  : 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
+   Stars  : ⭐ 10,069
+   Forks  : 🍴 854
+   Tags   : gemini, nanobanana, nanobanana-pro, nanobanana2, nanobananapro, prompt-engineering
+   Browse : https://github.com/ZeroLu/awesome-nanobanana-pro
+
+6. thinkingjimmy/Learning-Prompt
+   About  : Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
+   Stars  : ⭐ 5,324
+   Forks  : 🍴 399
+   Tags   : prompt, prompt-engineering, prompt-toolkit
+   Browse : https://github.com/thinkingjimmy/Learning-Prompt
+
+7. nateraw/stable-diffusion-videos
+   About  : Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
+   Stars  : ⭐ 4,694
+   Forks  : 🍴 447
+   Tags   : ai-art, huggingface, huggingface-diffusers, machine-learning, stable-diffusion
+   Browse : https://github.com/nateraw/stable-diffusion-videos
+
+8. jina-ai/discoart
+   About  : 🪩 Create Disco Diffusion artworks in one line
+   Stars  : ⭐ 3,830
+   Forks  : 🍴 241
+   Tags   : clip-guided-diffusion, creative-ai, creative-art, cross-modal, dalle, diffusion
+   Browse : https://github.com/jina-ai/discoart
+
+9. saharmor/dalle-playground
+   About  : A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
+   Stars  : ⭐ 2,743
+   Forks  : 🍴 579
+   Tags   : artificial, artificial-intelligence, dall-e, dalle, dalle-mini, gan
+   Browse : https://github.com/saharmor/dalle-playground
+
+10. LearnPrompt/LearnPrompt
+   About  : 永久免费开源的 AIGC 课程, 目前已支持Claude Code，Codex，Hermes，OpenClaw，Obsidian，Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型
+   Stars  : ⭐ 2,425
+   Forks  : 🍴 200
+   Tags   : agent, aimusic, aivoice, chatgpt-app, claude-code, cli
+   Browse : https://github.com/LearnPrompt/LearnPrompt
+
+11. adieyal/sd-dynamic-prompts
+   About  : A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation
+   Stars  : ⭐ 2,276
+   Forks  : 🍴 302
+   Browse : https://github.com/adieyal/sd-dynamic-prompts
+
+12. YiVal/YiVal
+   About  : Your Automatic Prompt Engineering Assistant for GenAI Applications
+   Stars  : ⭐ 2,130
+   Forks  : 🍴 328
+   Tags   : ai, ai-experiments, ai-toolkit, aigc, api, auto-prompting
+   Browse : https://github.com/YiVal/YiVal
+
+13. TanShilongMario/PromptFill
+   About  : designed specifically for AI painting (GPT, Midjourney, Nano Banana, etc.). Help users quickly build, manage, and iterate complex prompts through a visual "fill-in-the-blank" interaction.  通过可视化的"填空"交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
+   Stars  : ⭐ 1,873
+   Forks  : 🍴 328
+   Browse : https://github.com/TanShilongMario/PromptFill
+
+14. dongyubin/Awesome-AI-Images-Prompts
+   About  : 2026年6月更新，精选适用于 GPT Image 2、Gemini Nano-banana Pro Image Prompts、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Seedance 2.0等AI生图大模型的提示词
+   Stars  : ⭐ 173
+   Forks  : 🍴 24
+   Tags   : chatgpt, gemini, jimeng, midjourney, nana-banana, seedream4
+   Browse : https://github.com/dongyubin/Awesome-AI-Images-Prompts
+
+15. NamanVinayak/ai-multi-agent-storyboarder
+   About  : 🎬 Multi-agent script-to-storyboard pipeline (Producer/Director/DOP/Prompt Engineer agents) with Flux/ComfyUI/Leonardo image gen and DaVinci Resolve XML export. Incomplete — published as-is for forking.
+   Stars  : ⭐ 3
+   Forks  : 🍴 1
+   Browse : https://github.com/NamanVinayak/ai-multi-agent-storyboarder
+
+
+[ 2. HUGGING FACE — TRENDING IMAGE AI MODELS ]
+Most-liked models = what creators are using RIGHT NOW
+Use these model names in your content titles
+--------------------------------------------------
+
+1. black-forest-labs/FLUX.1-dev
+   Likes     : ❤️  13,145
+   Downloads : 📥 1,017,213
+
+2. stabilityai/stable-diffusion-xl-base-1.0
+   Likes     : ❤️  7,806
+   Downloads : 📥 1,393,831
+
+3. CompVis/stable-diffusion-v1-4
+   Likes     : ❤️  7,020
+   Downloads : 📥 447,697
+
+4. black-forest-labs/FLUX.1-schnell
+   Likes     : ❤️  5,078
+   Downloads : 📥 323,188
+
+5. stabilityai/stable-diffusion-3-medium
+   Likes     : ❤️  4,972
+   Downloads : 📥 3,321
+
+6. Tongyi-MAI/Z-Image-Turbo
+   Likes     : ❤️  4,790
+   Downloads : 📥 856,959
+
+7. WarriorMama777/OrangeMixs
+   Likes     : ❤️  3,916
+   Downloads : 📥 2,187
+
+8. deepseek-ai/Janus-Pro-7B
+   Likes     : ❤️  3,616
+   Downloads : 📥 10,889
+
+9. stabilityai/stable-diffusion-3.5-large
+   Likes     : ❤️  3,528
+   Downloads : 📥 22,255
+
+10. prompthero/openjourney
+   Likes     : ❤️  3,215
+   Downloads : 📥 9,131
+
+11. CompVis/stable-diffusion-v-1-4-original
+   Likes     : ❤️  2,864
+   Downloads : 📥 0
+
+12. stabilityai/sdxl-turbo
+   Likes     : ❤️  2,585
+   Downloads : 📥 831,213
+
+
+[ 3. TRENDING STYLE TAGS — FROM AI ART COMMUNITY ]
+These tags = what styles people are searching for
+Each tag = one YouTube video or Instagram post idea
+--------------------------------------------------
+
+  #stable-diffusion          ██████████████████ (6x)
+  #prompt-engineering        ████████████ (4x)
+  #gemini                    █████████ (3x)
+  #prompts                   █████████ (3x)
+  #prompt                    █████████ (3x)
+  #midjourney                █████████ (3x)
+  #claude-code               ██████ (2x)
+  #codex                     ██████ (2x)
+  #image-generation          ██████ (2x)
+  #nanobanana                ██████ (2x)
+  #nanobanana-pro            ██████ (2x)
+  #diffusion                 ██████ (2x)
+  #generative-art            ██████ (2x)
+  #generative-ai             ██████ (2x)
+  #machine-learning          ██████ (2x)
+
+
+=======================================================
+[ 4. CONTENT IDEAS — USE THESE RESULTS TODAY ]
+=======================================================
+
+YOUTUBE IDEAS:
+  → 'I tested the #1 most starred AI prompt repo'
+  → 'Top 5 trending AI image models this week'
+  → 'Best [tag] AI prompts — with examples'
+
+INSTAGRAM IDEAS:
+  → Carousel: '10 prompts from the most starred GitHub repo'
+  → Reel: Before/after using a trending model
+  → Story poll: 'Which AI model should I test next?'
+
+NEWSLETTER IDEAS:
+  → 'This week in AI art: top repos + trending models'
+  → Curate 5 prompts from top GitHub repo + credit source
+
+PRODUCT IDEAS:
+  → PDF: 'Top 50 prompts from GitHub's most starred repos'
+  → Sell this script on Gumroad: 'AI Trend Finder for Creators'
