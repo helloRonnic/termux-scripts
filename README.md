@@ -14,6 +14,16 @@ python trending_prompts.py
 
 **Output:** Dated .txt report with trending repos, models, and content ideas.
 
+### content_ideas.py
+Reads the latest trend report and generates platform-specific content ideas.
+Outputs YouTube titles, Instagram hooks, newsletter subjects, and a 7-day calendar.
+
+**Run it:**
+python content_ideas.py
+
+**Output:** content_ideas_YYYY-MM-DD.txt with 15-20 ready-to-use content ideas.
+
+**Note:** Run trending_prompts.py first to generate a fresh trend report.
 ---
 Built by a student from Punjab, India.
 Phone: Poco F6 | Environment: Termux on Android
